@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f44ce16-f7b5-467d-be62-0b098f143bea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Pages/day2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/day3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/day4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/internal-Link.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Web_Development.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Web_Development.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/day1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +35,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.HTML" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -42,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1652283586423</updated>
-      <workItem from="1652283590963" duration="6426000" />
+      <workItem from="1652283590963" duration="15445000" />
     </task>
     <servers />
   </component>
